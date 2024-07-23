@@ -1,4 +1,4 @@
-import { UIUpdateDirections, UIUpdateTypes } from "@ui/Elements/UI.types";
+import { UIUpdateDirections, UIUpdateTypes } from "./UI.types";
 import type { UIElementBase } from "./UIElementBase";
 import { UIContainerBase } from "./UIContainerBase";
 export class UIUpdateEvent extends Event {

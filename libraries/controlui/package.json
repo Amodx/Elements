@@ -11,12 +11,12 @@
     "compile": "cd ./src && npx tsc --watch"
   },
   "repository": {
-    "url": "git+https://github.com/Amodx/Libraries.git"
+    "url": "git+https://github.com/Amodx/Elements.git"
   },
   "bugs": {
-    "url": "https://github.com/Amodx/Libraries/issues"
+    "url": "https://github.com/Amodx/Elements/issues"
   },
-  "homepage": "https://github.com/Amodx/Libraries",
+  "homepage": "https://github.com/Amodx/Elements",
   "author": "Amodx",
   "license": "MIT",
   "devDependencies": {},

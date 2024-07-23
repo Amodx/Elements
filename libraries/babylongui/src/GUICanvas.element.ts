@@ -1,7 +1,7 @@
 import type { Scene } from "@babylonjs/core";
 import { GUIElement } from "./GUIElement";
 import { AdvancedDynamicTexture } from "@babylonjs/gui/2D/advancedDynamicTexture";
-import { RenderSystem } from "@system/render/RenderSystem";
+
 export interface GUICanvasElement {
   background?: string;
 }
